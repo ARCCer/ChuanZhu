@@ -89,7 +89,7 @@ Field experiments, causal inference, platform data, quasi-experimental methods, 
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em> | Year: TODO</div>
+<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em></div>
 
 ### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
@@ -105,7 +105,7 @@ This paper studies the deployment of agentic AI in Alibaba Taobao's customer ser
 :::
 
 ::: {.paper-entry}
-<div class="paper-meta">Working paper | Venue/status detail: TODO | Year: TODO</div>
+<div class="paper-meta">Working paper</div>
 
 ### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
 

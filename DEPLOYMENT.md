@@ -2,6 +2,12 @@
 
 This Quarto website is deployed with GitHub Pages through GitHub Actions.
 
+Target public URL:
+
+```text
+https://chuanzhu.github.io/
+```
+
 ## Strategy
 
 The `main` branch stores the source files only:
@@ -45,6 +51,14 @@ _site
 GitHub Actions uploads `_site/` with `actions/upload-pages-artifact` and deploys it with `actions/deploy-pages`.
 
 ## Manual GitHub Pages Setting
+
+To publish at `https://chuanzhu.github.io/`, the GitHub repository must be a user or organization Pages repository named:
+
+```text
+chuanzhu.github.io
+```
+
+owned by the `Chuanzhu` GitHub account or organization. If this project remains under `ARCCer/Personal-Webseite`, GitHub Pages will publish it as a project site at `https://arccer.github.io/Personal-Webseite/`.
 
 In the GitHub repository, enable GitHub Pages deployment from Actions:
 
