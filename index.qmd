@@ -1,0 +1,164 @@
+---
+title: "Chuan (River) Zhu"
+page-layout: full
+title-block-banner: false
+description: "Personal academic website of Chuan (River) Zhu, a PhD researcher studying AI, generative AI, AI agents, service operations, platform operations, human-AI collaboration, and empirical operations management."
+author: "Chuan (River) Zhu"
+image: assets/Figures/1.jpg
+keywords:
+  - AI
+  - generative AI
+  - AI agents
+  - operations management
+  - service operations
+  - platform operations
+  - human-AI collaboration
+  - empirical operations management
+---
+
+::: {.home-page}
+
+::: {.hero-section}
+::: {.hero-copy}
+<div class="eyebrow">Ph.D. Candidate | School of Management, Fudan University | Shanghai, China</div>
+
+# Chuan (River) Zhu
+
+I am an empirical operations management scholar studying how AI, GenAI, and human-AI collaboration reshape service operations, platform operations, and organizational decision-making.
+
+::: {.hero-links}
+[CV page](cv.qmd){.link-button .primary}
+[Email Chuan Zhu](mailto:zhuc21@m.fudan.edu.cn){.link-button}
+[Research](research.qmd){.link-button}
+[Industry](industry.qmd){.link-button}
+[ORCID](https://orcid.org/0009-0006-7660-3598){.link-button}
+[LinkedIn](https://www.linkedin.com/in/chuan-zhu-86692a169/){.link-button}
+[SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448){.link-button}
+:::
+
+:::
+
+::: {.hero-photo-wrap}
+![Portrait of Chuan Zhu](assets/Figures/1.jpg){.hero-photo}
+:::
+:::
+
+::: {.content-band}
+## Bio
+
+I am a Ph.D. Candidate in Business Artificial Intelligence at the School of Management, Fudan University, expected 2027. I received a B.S. in Logistics Engineering from Northeast Forestry University in 2018.
+
+My work uses empirical operations management methods, including field experiments, causal inference, platform data, machine learning, and LLM-based measurement, to study operational decisions in AI-enabled service systems.
+
+TODO: Add Google Scholar URL and public GitHub URL if available.
+:::
+
+::: {.content-band}
+## Research Focus
+
+My current research focuses on AI-enabled service operations, human-in-the-loop service design, AI agents in platform operations, workforce management, service recovery, and the allocation of front-office and back-office effort in online service settings.
+
+::: {.stream-grid}
+::: {.stream-card}
+### GenAI and Service Operations
+
+How GenAI changes customer service workflows, service quality, escalation, and recovery in customer service and contact-center operations.
+:::
+
+::: {.stream-card}
+### AI Agents and Platform Operations
+
+How agentic AI systems operate inside platform-mediated service environments, including customer service operations and online service platforms.
+:::
+
+::: {.stream-card}
+### Human-AI Collaboration
+
+Human-in-the-loop intervention, escalation timing, AI failure recovery, and worker effort in hybrid service systems.
+:::
+
+::: {.stream-card}
+### Empirical Methods
+
+Field experiments, causal inference, platform data, quasi-experimental methods, machine learning, textual analysis, and LLM-based measures.
+:::
+:::
+:::
+
+::: {.content-band .paper-band}
+## Selected Working Papers
+
+::: {.paper-list}
+::: {.paper-entry}
+<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em> | Year: TODO</div>
+
+### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
+
+Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+
+This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations through a randomized field experiment. The findings highlight the tradeoff between service efficiency and customer experience, and show how intervention timing, AI failure type, and post-escalation human effort shape service recovery.
+
+::: {.paper-links}
+[arXiv abstract](https://arxiv.org/abs/2605.14830)
+[SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
+[Paper PDF](<papers/Agentic AI and Human-in-the-Loop Interventions_2026-0511_corrected-original.pdf>)
+:::
+:::
+
+::: {.paper-entry}
+<div class="paper-meta">Working paper | Venue/status detail: TODO | Year: TODO</div>
+
+### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+
+**Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
+
+Using granular customer service data from a large e-commerce platform, this paper examines how workload affects agents' allocation between customer-facing interaction and back-office problem solving. The findings show that effective service requires balancing visible communication with substantive problem-solving work.
+
+::: {.paper-links}
+[Paper PDF](<papers/Visible Interaction, Invisible Resolution Workload and Effort Allocation in Online Customer Service.pdf>)
+:::
+:::
+:::
+
+[View full research agenda and publications](research.qmd){.link-button}
+:::
+
+::: {.content-band .collaboration-band}
+## Industry Experience
+
+::: {.collab-grid}
+::: {.collab-item}
+### Alibaba Group
+
+Research Scientist, Customer Operations Department, July 2022 to present. This full-time, onsite academic collaboration focuses on human-AI hybrid customer service system design, causal-inference-based workforce management, and data-driven customer service operations.
+:::
+
+::: {.collab-item}
+### Environmental Defense Fund Climate Corps and LONGi Green Energy
+
+Climate Corps Fellow, July 2021 to Oct. 2021. This work examined supplier-side carbon-management challenges and green supply-chain opportunities.
+:::
+:::
+
+[View industry experience](industry.qmd){.link-button}
+:::
+
+::: {.content-band}
+## Teaching and Service
+
+I have served as a teaching assistant for Operations Management, Data-Driven Market Analysis, Microeconomics, and Theories and Practices of Entrepreneurship across MBA, master's, and undergraduate courses.
+
+TODO: Add teaching interests, guest lectures, reviewer service, and conference service when available.
+
+[View teaching and service](teaching-service.qmd){.link-button}
+:::
+
+::: {.content-band .contact-band}
+## Contact
+
+For research, collaboration, or teaching-related inquiries, please reach me by [email](mailto:zhuc21@m.fudan.edu.cn). You can also find my academic profiles on [ORCID](https://orcid.org/0009-0006-7660-3598), [LinkedIn](https://www.linkedin.com/in/chuan-zhu-86692a169/), and my [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448).
+
+TODO: Add Google Scholar, GitHub, and final personal website URL when available.
+:::
+
+:::

@@ -1,0 +1,7 @@
+# Conference presentations.
+# Include conference talks, posters, doctoral consortia, workshops, and selected showcases.
+conference_presentations:
+  - title: "[Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations]"
+    conference: "[POMS Annual Meeting, 2026]"
+  - title: "[Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance]"
+    conference: "[Poms-HK 2026]"

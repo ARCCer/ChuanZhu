@@ -1,0 +1,31 @@
+# Basic profile information.
+# Fill this with public, verified identity and contact details.
+profile:
+  # Full professional name as it should appear on the CV and website.
+  full_name: "[Chuan Zhu]"
+
+  # Optional shorter version used in bios or navigation.
+  preferred_name: "[River Zhu]"
+
+  # Current academic title, such as doctoral student or PhD candidate.
+  current_title: "[Phd Candidate]"
+
+  # Department, school, and university affiliation.
+  school: "[School of Management]"
+  institution: "[Fudan University]"
+
+  # Current location for CV header or website bio.
+  location:
+    city: "[Shanghai]"
+    country: "[China]"
+
+  # Public contact and profile links.
+  contact:
+    email: "[zhuc21@m.fudan.edu.cn]"
+    website: "[TODO: personal website URL]"
+    google_scholar: "[TODO: Google Scholar URL]"
+    linkedin: "[https://www.linkedin.com/in/chuan-zhu-86692a169/]"
+    orcid: "[https://orcid.org/0009-0006-7660-3598]"
+
+  # Version date for keeping materials synchronized.
+  last_updated: "[2026-5-15]"

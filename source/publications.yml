@@ -1,0 +1,27 @@
+# Publications, accepted papers, and other formally published outputs.
+# Use this file only for items that are published, accepted, or formally forthcoming.
+publications:
+  - # Full title of the published or accepted work.
+    title: "[TODO: publication title]"
+
+    # Author list in publication order.
+    authors:
+      - name: "[TODO: author name]"
+        role: "[TODO: your role / coauthor role, optional]"
+
+    # Publication venue and bibliographic information.
+    venue: "[TODO: journal, conference, book chapter, or proceeding]"
+    status: "[TODO: published / accepted / forthcoming]"
+    year: "[TODO: YYYY]"
+    volume: "[TODO: volume or leave blank]"
+    issue: "[TODO: issue or leave blank]"
+    pages: "[TODO: pages or leave blank]"
+
+    # Persistent public links.
+    doi: "[TODO: DOI or leave blank]"
+    url: "[TODO: publication URL or leave blank]"
+
+    # Optional fields for CV notes.
+    equal_contribution_note: "[TODO: equal contribution note or leave blank]"
+    award_or_recognition: "[TODO: award or recognition or leave blank]"
+    public_summary: "[TODO: one-sentence public summary or leave blank]"

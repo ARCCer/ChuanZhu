@@ -1,0 +1,12 @@
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Local OS files
+.DS_Store
+Thumbs.db
+

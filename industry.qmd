@@ -1,0 +1,84 @@
+---
+title: "Industry Experience | Chuan (River) Zhu"
+page-layout: full
+title-block-banner: false
+description: "Research-relevant industry collaboration and internship experience by Chuan (River) Zhu in AI-enabled service operations, platform operations, and operational problem diagnosis."
+author: "Chuan (River) Zhu"
+keywords:
+  - industry collaboration
+  - AI-enabled service operations
+  - platform operations
+  - Alibaba customer operations
+  - service operations
+  - empirical operations management
+---
+
+::: {.home-page}
+
+::: {.content-band}
+<div class="eyebrow">Industry Experience</div>
+
+# Industry Experience
+
+My industry experience supports my empirical research in AI-enabled service operations, platform operations, and operational decision-making. I use this page to document research-relevant collaboration and field-facing experience while keeping confidential details out of the public website.
+
+::: {.hero-links}
+[Alibaba Group](#alibaba-group){.link-button}
+[EDF Climate Corps & LONGi](#environmental-defense-fund-climate-corps-and-longi-green-energy){.link-button}
+[Research](research.qmd){.link-button}
+:::
+:::
+
+::: {.content-band}
+## Experience
+
+::: {.paper-list}
+::: {.paper-entry}
+### Alibaba Group
+
+<div class="paper-meta">Customer Operations Department | Research Scientist | Full-time, Onsite, Academic Collaboration | Hangzhou, China | July 2022 - Present</div>
+
+- Collaborate on human-AI hybrid customer service system design.
+- Develop algorithms with causal inference to better manage worker supply.
+- Design data-driven strategies to optimize customer service operations.
+- Provide academic consulting to support Alibaba's operational innovation initiatives.
+
+**Research relevance:** This collaboration supports my research on AI-enabled customer service operations, human-AI collaboration, workforce management, and platform operations.
+
+TODO: Add preferred confidentiality wording for public descriptions of the Alibaba collaboration.
+:::
+
+::: {.paper-entry}
+### Environmental Defense Fund Climate Corps and LONGi Green Energy
+
+<div class="paper-meta">Climate Corps Fellow | Full-time, Onsite, Internship | Xi'an, China | July 2021 - Oct. 2021</div>
+
+- Analyzed supplier-side carbon-management challenges and green supply-chain opportunities.
+- Designed supplier survey instruments and benchmarked leading firms' decarbonization practices.
+- Developed a green supplier empowerment roadmap for training, renewable-energy adoption, monitoring, and incentives.
+
+**Research relevance:** This experience is related to operational problem diagnosis, supplier-side analysis, benchmarking, and implementation-oriented sustainability work.
+
+[LONGi green supply chain public project page](https://www.longi.com/cn/sustainability/green-supply-chain/)
+
+TODO: Confirm whether this public project link should remain on the website.
+:::
+:::
+:::
+
+::: {.content-band}
+## Research Connection
+
+These roles help ground my academic work in operational settings where technology, workers, customers, and organizations interact. The Alibaba collaboration is most directly connected to my current agenda on AI-enabled service operations and platform operations. The EDF Climate Corps and LONGi experience adds broader exposure to supplier-side operational analysis and sustainability-oriented process improvement.
+:::
+
+::: {.content-band .contact-band}
+## Information To Complete
+
+- TODO: Confirm final confidentiality language for industry collaborations.
+- TODO: Confirm whether to include company logos or keep this page text-only.
+- TODO: Confirm whether all public project links should be displayed.
+- TODO: Add any additional verified industry collaborations, if applicable.
+:::
+
+:::

@@ -1,0 +1,15 @@
+# Optional job-market tracker. Remove entries that are not useful.
+applications:
+  - institution: "[University]"
+    department: "[Department / School]"
+    position_title: "[Position Title]"
+    field_area: "[Operations Management / Information Systems / Analytics / Service Operations]"
+    deadline: "[YYYY-MM-DD]"
+    materials_required:
+      - "CV"
+      - "Research statement"
+      - "Teaching statement"
+      - "[TODO: other material]"
+    status: "[Not started / Drafting / Submitted / Interview / Closed]"
+    notes: "[TODO]"
+

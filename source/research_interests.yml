@@ -1,0 +1,34 @@
+# Research interests and academic positioning.
+# Use this file to define your research identity across CV, bios, website, and job-market materials.
+research_interests:
+  # One sentence that describes your academic identity.
+  one_sentence_identity: "[I am an empirical operations management scholar studying how AI, GenAI, and human-AI collaboration reshape service operations, platform operations, and organizational decision-making.]"
+
+  # Slightly longer public-facing version for bios and website.
+  short_research_summary: "[My research examines the operational implications of AI and GenAI deployment in service and platform systems, with a focus on human-AI collaboration, algorithmic decision-making, and empirical operations management]"
+
+  # Broad academic fields. Keep these stable across materials.
+  fields:
+    - "[Service Operations]"
+    - "[Platform Operations]"
+    - "[Empirical Operations Management]"
+
+  # Substantive topics: what real-world phenomena or managerial problems you study.
+  substantive_interests:
+    - "[AI-enabled service operations]"
+    - "[Human-AI collaboration]"
+    - "[Human-in-the-loop systems]"
+    - "[GenAI and AI agents in platform operations]"
+    - "[Workforce management]"
+
+  # Methodological interests: how you study those problems.
+  methodological_interests:
+    - "[Field Experiments]"
+    - "[Causal Inference]"
+    - "[Machine Learning]"
+    - "[LLM]"
+
+  # Application settings or industries, if relevant.
+  empirical_settings:
+    - "[Customer service and contact-center operations, Digital platforms and online marketplaces, AI-enabled service operations]"
+

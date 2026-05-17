@@ -1,0 +1,25 @@
+# Work-in-progress papers and research pipeline.
+# Use this for active projects that are not yet mature working papers.
+work_in_progress:
+  - title: "[TODO: project or paper title]"
+    authors:
+      - name: "[TODO: author name]"
+        affiliation: "[TODO: affiliation or leave blank]"
+        role: "[TODO: your role / coauthor role, optional]"
+
+    # Current stage should be honest and specific.
+    stage: "[TODO: idea / data collection / analysis / modeling / writing / preparing draft]"
+    expected_next_milestone: "[TODO: next milestone and target date]"
+
+    # Research content.
+    research_question: "[TODO: one-sentence research question]"
+    setting_or_context: "[TODO: setting or problem domain]"
+    data_sources: "[TODO: data source(s), if public and shareable]"
+    methods:
+      - "[TODO: method]"
+    expected_contribution: "[TODO: expected contribution]"
+    short_description: "[TODO: 1-3 sentence project description]"
+
+    # Use only public-safe notes in CV or website materials.
+    public_status_note: "[TODO: short public status note or leave blank]"
+    internal_notes: "[TODO: private next steps or risks]"

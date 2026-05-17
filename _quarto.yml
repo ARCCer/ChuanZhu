@@ -1,0 +1,45 @@
+project:
+  type: website
+
+lang: en
+author: "Chuan (River) Zhu"
+
+website:
+  title: "Chuan (River) Zhu | AI, Generative AI, and Operations Management Research"
+  description: "Personal academic website of Chuan (River) Zhu, a PhD researcher studying AI, generative AI, AI agents, service operations, platform operations, human-AI collaboration, and empirical operations management."
+  open-graph: true
+  twitter-card: true
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Industry"
+        href: industry.qmd
+      - text: "Teaching & Service"
+        href: teaching-service.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - text: "Email"
+        href: mailto:zhuc21@m.fudan.edu.cn
+      - text: "ORCID"
+        href: https://orcid.org/0009-0006-7660-3598
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/chuan-zhu-86692a169/
+  page-footer:
+    left: "Chuan (River) Zhu | School of Management, Fudan University"
+    right:
+      - text: "Email"
+        href: mailto:zhuc21@m.fudan.edu.cn
+      - text: "CV"
+        href: cv.qmd
+      - text: "ORCID"
+        href: https://orcid.org/0009-0006-7660-3598
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false

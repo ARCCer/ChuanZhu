@@ -1,0 +1,27 @@
+# Teaching experience.
+# Keep instructor roles, TA roles, project advising, and teaching preparation separate.
+teaching:
+  teaching_assistant:
+    - course_title: "[Operations Management]"
+      term: "[Spring 2022]"
+      student_level: "[MBA]"
+    - course_title: "[Data-Driven Market Analysis]"
+      term: "[Fall 2021]"
+      student_level: "[Master's]" 
+    - course_title: "[Microeconomics]"
+      term: "[Spring 2019]"
+      student_level: "[Undergraduate]"
+    - course_title: "[Theories and Practices of Entrepreneurship]"
+      term: "[Spring 2019]"
+      student_level: "[Undergraduate]"
+
+teaching_interests:
+  - "[TODO: operations management course area]"
+  - "[TODO: information systems / analytics course area]"
+  - "[TODO: AI, platforms, or service operations course area]"
+
+training:
+  - title: "[TODO: teaching certificate, workshop, or training]"
+    institution: "[TODO: university or organization]"
+    date: "[TODO: YYYY or YYYY-MM-DD]"
+    description: "[TODO: short description or leave blank]"

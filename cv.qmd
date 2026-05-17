@@ -1,0 +1,189 @@
+---
+title: "CV | Chuan (River) Zhu"
+page-layout: full
+title-block-banner: false
+description: "Curriculum vitae for Chuan (River) Zhu, a PhD researcher studying AI, generative AI, service operations, platform operations, and empirical operations management."
+author: "Chuan (River) Zhu"
+keywords:
+  - academic CV
+  - operations management
+  - generative AI
+  - service operations
+  - platform operations
+  - empirical operations management
+---
+
+::: {.home-page}
+
+::: {.content-band}
+<div class="eyebrow">Curriculum Vitae</div>
+
+# CV
+
+This page provides a concise web summary of my academic CV. The complete PDF version is available below.
+
+::: {.hero-links}
+[Download CV PDF](cv/Chuan_Zhu_CV_updated.pdf){.link-button .primary}
+[Research](research.qmd){.link-button}
+[Industry](industry.qmd){.link-button}
+[Teaching & Service](teaching-service.qmd){.link-button}
+:::
+
+TODO: Choose one canonical public CV filename, such as `cv/Chuan_Zhu_CV.pdf`, before final deployment.
+:::
+
+::: {.content-band}
+## Academic Profile
+
+- **Name:** Chuan Zhu
+- **Position:** Ph.D. Candidate
+- **Affiliation:** School of Management, Fudan University
+- **Location:** Shanghai, China
+- **Email:** [zhuc21@m.fudan.edu.cn](mailto:zhuc21@m.fudan.edu.cn)
+- **ORCID:** [0009-0006-7660-3598](https://orcid.org/0009-0006-7660-3598)
+- **LinkedIn:** [Chuan Zhu](https://www.linkedin.com/in/chuan-zhu-86692a169/)
+- **SSRN:** [Author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
+- **Last updated:** 2026-5-15
+- TODO: Add Google Scholar URL.
+- TODO: Add public GitHub URL, if applicable.
+:::
+
+::: {.content-band}
+## Education
+
+::: {.paper-list}
+::: {.paper-entry}
+### Ph.D. in Business Artificial Intelligence
+
+School of Management, Fudan University, expected 2027.
+
+Dissertation focus: Integrating AI in Service Operations.
+:::
+
+::: {.paper-entry}
+### B.S. in Logistics Engineering
+
+Northeast Forestry University, 2018.
+:::
+:::
+:::
+
+::: {.content-band}
+## Research Interests
+
+::: {.stream-grid}
+::: {.stream-card}
+### Fields
+
+Service operations; platform operations; empirical operations management.
+:::
+
+::: {.stream-card}
+### Topics
+
+AI-enabled service operations; human-AI collaboration; human-in-the-loop systems; GenAI and AI agents in platform operations; workforce management.
+:::
+
+::: {.stream-card}
+### Methods
+
+Field experiments; causal inference; machine learning; LLM-based measurement.
+:::
+
+::: {.stream-card}
+### Empirical Settings
+
+Customer service and contact-center operations; digital platforms and online marketplaces; AI-enabled service operations.
+:::
+:::
+:::
+
+::: {.content-band}
+## Research Output
+
+### Publications
+
+TODO: Add published, accepted, or forthcoming papers when available.
+
+### Working Papers
+
+::: {.paper-list}
+::: {.paper-entry}
+<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em> | Year: TODO</div>
+
+#### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
+
+Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+
+::: {.paper-links}
+[SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
+[arXiv abstract](https://arxiv.org/abs/2605.14830)
+[Paper PDF](<papers/Agentic AI and Human-in-the-Loop Interventions_2026-0511_corrected-original.pdf>)
+:::
+:::
+
+::: {.paper-entry}
+<div class="paper-meta">Working paper | Venue/status detail: TODO | Year: TODO</div>
+
+#### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+
+**Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
+
+::: {.paper-links}
+[Paper PDF](<papers/Visible Interaction, Invisible Resolution Workload and Effort Allocation in Online Customer Service.pdf>)
+:::
+:::
+:::
+
+### Conference Presentations
+
+- **Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations.** POMS Annual Meeting, 2026.
+- **Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance.** POMS-HK, 2026.
+:::
+
+::: {.content-band}
+## Professional Experience
+
+::: {.paper-list}
+::: {.paper-entry}
+### Alibaba Group
+
+Research Scientist, Customer Operations Department, July 2022 to present. Full-time, onsite academic collaboration in Hangzhou, China.
+:::
+
+::: {.paper-entry}
+### Environmental Defense Fund Climate Corps and LONGi Green Energy
+
+Climate Corps Fellow, July 2021 to Oct. 2021. Full-time, onsite internship in Xi'an, China.
+:::
+:::
+
+[View industry experience](industry.qmd){.link-button}
+:::
+
+::: {.content-band}
+## Teaching, Service, Honors, and Skills
+
+### Teaching
+
+Teaching Assistant for Operations Management, Data-Driven Market Analysis, Microeconomics, and Theories and Practices of Entrepreneurship.
+
+### Academic Service
+
+TODO: Add reviewer service, conference service, departmental service, and professional memberships when available.
+
+### Honors, Fellowships, and Awards
+
+- Climate Corps Fellow, Environmental Defense Fund, 2021.
+- Outstanding Academic Scholarship, School of Management, Fudan University, 2019.
+
+### Skills
+
+- **GenAI / LLM:** Retrieval-Augmented Generation (RAG), Agentic AI, LLM Fine-Tuning, Data Annotation and Evaluation.
+- **Programming:** Python, R, Stata, SQL.
+- **Software:** MATLAB, LaTeX.
+
+[View teaching and service](teaching-service.qmd){.link-button}
+:::
+
+:::

@@ -1,0 +1,69 @@
+# Working papers.
+# Use this for papers that are complete enough to circulate, submit, or present as working papers.
+working_papers:
+   # Paper title as it appears on the CV.
+  - title: "[Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations]"
+
+    # Author list in intended citation order.
+    authors:
+      - name: "[Yiwei Wang, \bold{Chuan Zhu}, Tianjun Feng, Lauren Xiaoyuan Lu, Bingxin Jia]"
+
+    # Current paper status. Keep this accurate and up to date.
+    status: "[under review ]"
+    target_or_current_venue: "[Operations Research]"
+    Type: "[Job Market Paper]"
+
+    # Research content.
+    research_question: 
+      primary_research_question: "How should firms deploy and govern agentic AI in customer service operations when autonomous AI systems interact directly with customers but human workers remain in the loop?"
+
+      sub_questions:
+      - "What are the effects of deploying agentic AI with human-in-the-loop supervision on service speed, objective service quality, and subjective customer experience?"
+      - "When does human intervention effectively recover service failures created by agentic AI?"
+      - "How do different types of AI failures—technical failures versus emotional failures—shape the effectiveness of human intervention?"
+      - "How do intervention timing and post-escalation human effort influence service recovery in human-AI hybrid service systems?"
+      - "How should firms design the operational process and division of labor between agentic AI and human workers?"
+    setting_or_context: "[Alibaba Taobao's customer service operations, where agentic AI autonomously handles AI-eligible customer chats under human-in-the-loop supervision while human workers continue to manage AI-ineligible chats]"
+    methods:
+      - "[Randomized field experiment]"
+      - "[Causal inference using large-scale customer service operational data]"
+      - "[Mechanism analysis of post-escalation human effort with LLM Annotation]"
+    main_contribution: "[The paper provides field-experimental evidence on how agentic AI reshapes customer service operations and shows that the effectiveness of human-in-the-loop intervention depends critically on AI failure type, intervention timing, and workers' post-escalation effort]"
+    abstract_short: "[This paper studies the deployment of agentic AI in Alibaba's customer service operations through a randomized field experiment. The findings show that agentic AI reduces average chat duration but may lower customer ratings for AI-eligible chats, highlighting a tradeoff between service efficiency and customer experience. Human-in-the-loop intervention is effective for technical escalations but less effective for emotional escalations, partly because workers exert lower post-escalation effort in emotionally charged cases. The paper offers implications for designing human-AI hybrid service systems, especially around escalation rules, intervention timing, and the division of labor between AI and human workers]"
+    # Signals for CV and job-market materials.
+    selected_presentations:
+      - "[TODO: conference, workshop, or seminar]"
+    awards_or_recognition:
+      - "[TODO: award, finalist status, or recognition]"
+    public_links:
+      SSRN: "[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448]"
+      Arxiv: "[https://arxiv.org/abs/2605.14830]"
+      slides: "[TODO: slides URL or leave blank]"
+  - title: "Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance"
+    authors:
+      - name: "[Chuan Zhu, Tom Fangyun Tan, Tianjun Feng]"
+    status: "Working paper"
+    target_or_current_venue: "[TODO]"
+
+    research_question:
+      primary_research_question: "How does workload shape online service agents' allocation between customer-facing interaction and back-office problem solving, and how does this allocation affect service performance?"
+
+    setting_or_context: "Live-chat customer service operations at a large Chinese e-commerce platform."
+
+    methods:
+      - "Large-scale operational data analysis"
+      - "Control-function approach with instrumental variables"
+      - "Mediation analysis"
+      - "Textual analysis using LDA and LLM-based measures"
+
+    main_contribution: "The paper shows that service performance depends on maintaining an intermediate balance between front-office interaction and back-office problem solving."
+
+    abstract_short: "Using granular customer service data from a large e-commerce platform, this paper examines how workload affects agents' within-session effort allocation. Workload has a U-shaped effect on the front ratio, and the front ratio mediates the effect of workload on session duration, customer ratings, and retrials. The findings show that neither too little nor too much customer-facing interaction is optimal; effective service requires balancing visible communication with substantive problem-solving work."
+
+    selected_presentations: []
+    awards_or_recognition: []
+    public_links:
+      SSRN: ""
+      Arxiv: ""
+      slides: ""
+

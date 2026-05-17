@@ -1,0 +1,166 @@
+---
+title: "Research & Publications | Chuan (River) Zhu"
+page-layout: full
+title-block-banner: false
+description: "Research agenda and working papers by Chuan (River) Zhu on generative AI, AI agents, service operations, platform operations, human-AI collaboration, and empirical operations management."
+author: "Chuan (River) Zhu"
+keywords:
+  - generative AI
+  - AI agents
+  - service operations
+  - platform operations
+  - human-AI collaboration
+  - field experiments
+  - causal inference
+  - empirical operations management
+---
+
+::: {.home-page}
+
+::: {.content-band}
+<div class="eyebrow">Research & Publications</div>
+
+# Research Agenda
+
+My research examines how AI, GenAI, and AI agents reshape service and platform operations. I study AI-enabled operational systems as settings where algorithms, workers, customers, and platforms jointly determine service quality, speed, effort allocation, and governance.
+
+The agenda is empirical and field-grounded. I use field experiments, platform data, causal inference, machine learning, and LLM-based measurement to study how firms should design, evaluate, and govern AI-enabled operations.
+
+::: {.hero-links}
+[Research Streams](#research-streams){.link-button}
+[Working Papers](#working-papers){.link-button}
+[Work in Progress](#work-in-progress){.link-button}
+[Selected Projects](#selected-projects){.link-button}
+:::
+:::
+
+::: {.content-band .philosophy-band}
+## Research Philosophy
+
+::: {.philosophy-note}
+**English version.** I take inspiration from von Neumann's view that formal disciplines stay vital when they repeatedly return to their empirical sources. Models, methods, and metrics are most useful when they are replenished by ideas drawn from reality.
+
+**中文版本。** 朱熹说：“问渠哪得清如许，为有源头活水来。” 对我而言，这句诗表达了同样的研究观：学术问题的清澈与生命力，来自对真实运营现场和一手经验的持续回到。
+:::
+
+This perspective shapes how I study AI-enabled operations. AI changes operations not only by automating tasks, but also by changing who observes problems, who intervenes, who bears responsibility for service failures, and how platforms allocate scarce human attention. My research begins from this operational view of AI systems.
+
+Rather than treating AI performance as a standalone technical outcome, I study how AI interacts with process design, worker behavior, customer experience, and platform governance. This is especially important in service operations, where outcomes often depend on both visible customer-facing interaction and less visible resolution work.
+
+My goal is to develop evidence that is useful for both academic theory and managerial decision-making: when AI agents should act autonomously, when humans should intervene, how organizations should measure service performance, and how platforms can design more reliable human-AI operating systems.
+:::
+
+::: {.content-band}
+## Research Streams
+
+::: {.stream-grid}
+::: {.stream-card}
+### GenAI and Service Operations
+
+I study how GenAI changes service processes, including customer service speed, service quality, escalation, and recovery. The current empirical setting supported by my materials is customer service and contact-center operations.
+:::
+
+::: {.stream-card}
+### AI Agents and Platform Operations
+
+I examine how agentic AI systems operate inside platform-mediated service environments. Current materials support this stream through Alibaba Taobao customer service operations and online service platforms.
+:::
+
+::: {.stream-card}
+### Human-AI Collaboration in Operational Systems
+
+I study human-in-the-loop intervention, AI failure recovery, intervention timing, and worker effort in hybrid service systems where AI and human workers share responsibility for outcomes.
+:::
+
+::: {.stream-card}
+### Content Governance, Trust, and Digital Platforms
+
+This is a developing stream on how platforms govern interactions, information quality, and trust in AI-enabled digital environments. TODO: add specific projects, settings, and papers before presenting this as a mature research stream.
+:::
+
+::: {.stream-card}
+### Empirical Methods for AI-Enabled Operations
+
+My work uses field experiments, causal inference, platform data, machine learning, textual analysis, and LLM-based measures to study operational systems affected by AI deployment.
+:::
+:::
+:::
+
+::: {.content-band}
+## Publications
+
+TODO: Add published, accepted, or forthcoming papers when available.
+:::
+
+::: {.content-band}
+## Working Papers
+
+::: {.paper-list}
+::: {.paper-entry}
+<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em> | Year: TODO</div>
+
+### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
+
+Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+
+This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations, where AI handles AI-eligible customer chats under human-in-the-loop supervision. The study uses a randomized field experiment and large-scale operational data to examine service speed, customer experience, AI failure recovery, intervention timing, and post-escalation human effort.
+
+**Methods and setting:** randomized field experiment; causal inference using large-scale customer service operational data; LLM annotation; Alibaba Taobao customer service operations.
+
+::: {.paper-links}
+[SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)
+[arXiv abstract](https://arxiv.org/abs/2605.14830)
+[Paper PDF](papers/Agentic%20AI%20and%20Human-in-the-Loop%20Interventions_2026-0511_corrected-original.pdf)
+:::
+:::
+
+::: {.paper-entry}
+<div class="paper-meta">Working paper | Venue/status detail: TODO | Year: TODO</div>
+
+### Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance
+
+**Chuan Zhu**, Tom Fangyun Tan, and Tianjun Feng.
+
+This paper examines how workload shapes online service agents' allocation between customer-facing interaction and back-office problem solving. The empirical setting provided in the source materials is live-chat customer service operations at a large Chinese e-commerce platform.
+
+**Methods and setting:** large-scale operational data analysis; control-function approach with instrumental variables; mediation analysis; textual analysis using LDA and LLM-based measures; live-chat customer service operations.
+
+::: {.paper-links}
+[Paper PDF](papers/Visible%20Interaction,%20Invisible%20Resolution%20Workload%20and%20Effort%20Allocation%20in%20Online%20Customer%20Service.pdf)
+:::
+:::
+:::
+:::
+
+::: {.content-band}
+## Work in Progress
+
+TODO: Add work-in-progress projects when they are ready to describe publicly. For each project, include title, coauthors, stage, research question, empirical setting, methods, and public status note.
+:::
+
+::: {.content-band}
+## Selected Projects
+
+::: {.paper-list}
+::: {.paper-entry}
+### Agentic AI in Customer Service Operations
+
+This project studies AI-agent deployment with human-in-the-loop supervision in Alibaba Taobao's customer service operations. It connects to the GenAI and Service Operations, AI Agents and Platform Operations, and Human-AI Collaboration streams.
+:::
+
+::: {.paper-entry}
+### Workload and Effort Allocation in Online Service
+
+This project studies how service workload affects the allocation of visible customer-facing interaction and less visible resolution work in live-chat customer service operations. It connects to service operations, platform operations, and empirical methods for AI-enabled operations.
+:::
+:::
+:::
+
+::: {.content-band .contact-band}
+## Selected Presentations
+
+- **Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations.** POMS Annual Meeting, 2026.
+- **Managing Front-office and Back-office Effort Allocation: Unpacking the Effects of Workload on Service Performance.** POMS-HK, 2026.
+:::
+
+:::

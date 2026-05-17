@@ -1,0 +1,6 @@
+# Programming and empirical methods skills.
+# Use concise, truthful labels. Avoid overstating proficiency.
+skills:
+  GenAI / LLM: "Retrieval-Augmented Generation (RAG), Agentic AI, LLM Fine-Tuning, Data Annotation and Evaluation"
+  Programming: "Python, R, Stata, SQL"
+  Software: "MATLAB, LaTeX"

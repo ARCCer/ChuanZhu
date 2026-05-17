@@ -1,0 +1,35 @@
+# Academic service.
+# Include only verified service roles and memberships.
+service:
+  reviewing:
+    - venue: "[TODO: journal or conference]"
+      role: "[TODO: reviewer / ad hoc reviewer / program committee]"
+      years:
+        - "[TODO: YYYY]"
+      notes: "[TODO: number of reviews or topic area if appropriate]"
+
+  conference_service:
+    - role: "[TODO: session chair / discussant / organizer / volunteer]"
+      conference: "[TODO: conference or workshop name]"
+      location: "[TODO: city/country or online]"
+      year: "[TODO: YYYY]"
+      session_or_track: "[TODO: session, track, or cluster name]"
+
+  departmental_service:
+    - role: "[TODO: committee member / student representative / seminar organizer]"
+      unit: "[TODO: department, school, lab, or research group]"
+      years:
+        - "[TODO: YYYY]"
+      description: "[TODO: one-line description]"
+
+  professional_memberships:
+    - organization: "[TODO: professional association]"
+      years:
+        - "[TODO: YYYY-present or YYYY]"
+      membership_type: "[TODO: student member / member / officer]"
+
+  community_or_outreach:
+    - role: "[TODO: outreach, mentoring, or community role]"
+      organization: "[TODO: organization]"
+      year: "[TODO: YYYY]"
+      description: "[TODO: one-line description]"

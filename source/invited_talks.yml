@@ -1,0 +1,12 @@
+# Invited talks and seminars.
+# Use this for talks where the invitation came from a university, research group, company, or seminar series.
+invited_talks:
+  - title: "[TODO: talk title]"
+    related_paper_or_project: "[TODO: related paper/project title]"
+    host_institution: "[TODO: university, company, or organization]"
+    host_unit: "[TODO: department, seminar series, lab, or group]"
+    location: "[TODO: city/country or online]"
+    date: "[TODO: YYYY-MM-DD or Month YYYY]"
+    talk_type: "[TODO: invited seminar / guest lecture / job-market talk / industry talk]"
+    audience: "[TODO: faculty / doctoral students / industry partners / mixed audience]"
+    notes: "[TODO: public-safe context or leave blank]"

@@ -1,0 +1,36 @@
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[margin=0.75in]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{tabularx}
+\usepackage{array}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{3pt}
+\setlength{\emergencystretch}{2em}
+\pagenumbering{gobble}
+\hypersetup{pageanchor=false}
+\urlstyle{same}
+
+\titleformat{\section}{\normalsize\bfseries}{}{0pt}{\MakeUppercase}[\titlerule]
+\titlespacing*{\section}{0pt}{9pt}{4pt}
+
+\newcommand{\cvitemsep}{\setlength\itemsep{1pt}\setlength\parskip{0pt}}
+
+\newcommand{\cvdatedline}[2]{%
+  \begin{tabularx}{\textwidth}{@{}X r@{}}
+    #1 & #2 \\
+  \end{tabularx}
+}
+
+\newcommand{\cvsubline}[2]{%
+  \begin{tabularx}{\textwidth}{@{}X r@{}}
+    \textit{#1} & \textit{#2} \\
+  \end{tabularx}
+}
+
+\newcommand{\cvpaper}[3]{%
+  \item #1. ``#2.'' #3
+}

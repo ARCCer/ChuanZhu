@@ -1,0 +1,31 @@
+# Industry collaboration and research experience.
+# Use this for industry roles, research collaborations, field partnerships, internships, or embedded research experience.
+industry_experience:
+  - organization: "[Alibaba Group]"
+    unit_or_department: "[Customer Operations Department]"
+    location: "[Hangzhou, China]"
+    role_title: "[Research Scientist]"
+    work_arrangement: "[Full-time, Onsite, Academic Collaboration]"
+    start_date: "[July 2022]"
+    end_date: "[Present]"
+
+    # Use action-oriented bullets, but keep them factual.
+    responsibilities:
+      - "[Collaborate on Human-AI hybrid customer service system design]"
+      - "[Develop algorithms with causal inference to better manage worker supply]"
+      - "[Design data-driven strategies to optimize customer service operations]"
+      - "[Provide academic consulting to support Alibaba’s operational innovation initiatives]"
+
+  - organization: "Environmental Defense Fund Climate Corps & LONGi Green Energy"
+    location: "Xi'an, China"
+    role_title: "Climate Corps Fellow"
+    work_arrangement: "Full-time, Onsite, Internship"
+    start_date: "July 2021"
+    end_date: "Oct 2021"
+
+    responsibilities:
+      - "[Analyzed supplier-side carbon-management challenges and green supply-chain opportunities]"
+      - "[Designed supplier survey instruments and benchmarked leading firms' decarbonization practices]"
+      - "[Developed a green supplier empowerment roadmap for training, renewable-energy adoption, monitoring, and incentives]"
+      - "[https://www.longi.com/cn/sustainability/green-supply-chain/]"
+

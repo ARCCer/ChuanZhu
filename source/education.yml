@@ -1,0 +1,27 @@
+# Education history.
+# List degrees in reverse chronological order.
+education:
+  - # Degree name as it should appear on the CV.
+    degree: "[Ph.D in Business Artificial Intelligence]"
+
+    # Institution and academic unit.
+    institution: "[Fudan University]"
+    school: "[School of Management]"
+
+    # Location can be useful for CV and bios.
+    location:
+      city: "[Shanghai]"
+      country: "[China]"
+
+    # Use expected end year for in-progress degrees.
+    end_year: "[expected 2027]"
+
+    # Dissertation fields should be completed only when ready to share.
+    dissertation:
+      focus: "[Integrating AI in Service Operations]"
+      committee:
+        - name: "[Tianjun Feng]"
+
+  - degree: "[B.S in Logistics Engineering]"
+    institution: "[Northeast Forestry University]"
+    end_year: "[2018]"

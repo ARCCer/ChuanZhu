@@ -1,0 +1,20 @@
+# References.
+# Use this file for private or job-market CV versions. Public website CVs may omit reference contact details.
+references:
+  - name: "[Tianjun Feng]"
+    role: "[Advisor]"
+    title: "[Professor]"
+    school: "[School of Management]"
+    institution: "[Fudan University]"
+    address: "[Shanghai, China]"
+    email: "[tfeng@fudan.edu.cn]"
+    website: "[https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012067]"
+  - name: "[Yiwei Wang]"
+    role: "[co-Advisor]"
+    title: "[Assistant Professor]"
+    school: "[International Business School]"
+    institution: "[Zhejiang University ]"
+    address: "[Hangzhou, China]"
+    email: "[yiweiwang@intl.zju.edu.cn ]"
+    website: "[https://sites.google.com/view/yiweiwang/]"
+
