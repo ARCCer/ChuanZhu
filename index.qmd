@@ -83,11 +83,11 @@ Human-in-the-loop intervention, escalation timing, AI failure recovery, and work
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em></div>
+<div class="paper-meta">(Job Market paper, *co-first authorship), under review at <em>Operations Research</em></div>
 
 ### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
-Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations through a randomized field experiment. The findings highlight the tradeoff between service efficiency and customer experience, and show how intervention timing, AI failure type, and post-escalation human effort shape service recovery.
 

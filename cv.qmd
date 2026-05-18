@@ -100,11 +100,11 @@ Customer service and contact-center operations; digital platforms and online mar
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em></div>
+<div class="paper-meta">(Job Market paper, *co-first authorship), under review at <em>Operations Research</em></div>
 
 #### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
-Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 ::: {.paper-links}
 [SSRN author page](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=11527448)

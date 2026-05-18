@@ -71,12 +71,6 @@ I examine how agentic AI systems operate inside platform-mediated service enviro
 
 I study human-in-the-loop intervention, AI failure recovery, intervention timing, and worker effort in hybrid service systems where AI and human workers share responsibility for outcomes.
 :::
-
-::: {.stream-card}
-### Empirical Methods for AI-Enabled Operations
-
-My work uses field experiments, causal inference, platform data, machine learning, textual analysis, and LLM-based measures to study operational systems affected by AI deployment.
-:::
 :::
 :::
 
@@ -85,11 +79,11 @@ My work uses field experiments, causal inference, platform data, machine learnin
 
 ::: {.paper-list}
 ::: {.paper-entry}
-<div class="paper-meta">Job Market Paper | Under review at <em>Operations Research</em></div>
+<div class="paper-meta">(Job Market paper, *co-first authorship), under review at <em>Operations Research</em></div>
 
 ### Agentic AI and Human-in-the-Loop Interventions: Field Experimental Evidence from Alibaba's Customer Service Operations
 
-Yiwei Wang, **Chuan Zhu**, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
+Yiwei Wang\*, **Chuan Zhu**\*, Tianjun Feng, Lauren Xiaoyuan Lu, and Bingxin Jia.
 
 This paper studies the deployment of agentic AI in Alibaba Taobao's customer service operations, where AI handles AI-eligible customer chats under human-in-the-loop supervision. The study uses a randomized field experiment and large-scale operational data to examine service speed, customer experience, AI failure recovery, intervention timing, and post-escalation human effort.
 

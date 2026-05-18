@@ -6,12 +6,13 @@ working_papers:
 
     # Author list in intended citation order.
     authors:
-      - name: "[Yiwei Wang, \bold{Chuan Zhu}, Tianjun Feng, Lauren Xiaoyuan Lu, Bingxin Jia]"
+      - name: "[Yiwei Wang*, \bold{Chuan Zhu}*, Tianjun Feng, Lauren Xiaoyuan Lu, Bingxin Jia]"
+    author_note: "[*co-first authorship]"
 
     # Current paper status. Keep this accurate and up to date.
     status: "[under review ]"
     target_or_current_venue: "[Operations Research]"
-    Type: "[Job Market Paper]"
+    Type: "[Job Market paper]"
 
     # Research content.
     research_question: 
@@ -66,4 +67,3 @@ working_papers:
       SSRN: ""
       Arxiv: ""
       slides: ""
-
